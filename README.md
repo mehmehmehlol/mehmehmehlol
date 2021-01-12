@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -10,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Hong Kong🇭🇰, Snoopy, swimming🏊🏻‍♀️, japanese stationaries, sitcoms
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/megan-s-lo/) and [Twitter](https://twitter.com/megmehlol)
 - ⚡ Fun fact: When I buy stationaries, I only look for stationaries that are refillable; one of my dreams is to have a big shelf full of Snoopys.
--->
+
