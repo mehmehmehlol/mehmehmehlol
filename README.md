@@ -1,12 +1,18 @@
 ### Hi there 👋
 
+#### My name is Megan. Welcome to... #MeganLand!
 
-Here are some ideas to get you started:
+I am a full-stack web developer. I recently graduated from UC Berkeley in sociology and decided to make a bigger leap to learn programming. I spend a lot of time brainstorming ideas and always try to come up a way to create something. 
 
-- 👩🏻‍💻I’m currently working on some minor projects and polishing my past projects, nothing biggie🤪
+I am one of those people that would spend 2 days just working on the CSS of that one freaking button!!! But it's okay, I like it regardless. I prefer minimalist and simplicity with my website design, however, I would love to work with someone who has a more creative side than me and tell me what I have to improve!
+
+Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
+
+- 👩🏻‍💻 I’m currently working on some minor projects and polishing my past projects, nothing biggie🤪
 - 🌱 I’m currently learning Hooks, Redux, Bootstrap, PHP and Java
 - 👯 I’m looking to collaborate on improving my project designs and extend my knowledge🥸.
 - 💬 Ask me about Hong Kong🇭🇰, Snoopy, swimming🏊🏻‍♀️, japanese stationaries, sitcoms
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/megan-s-lo/) and [Twitter](https://twitter.com/megmehlol)
-- ⚡ Fun fact: When I buy stationaries, I only look for stationaries that are refillable; one of my dreams is to have a big shelf full of Snoopys.
+- ⚡ Fun fact: When I buy stationaries, I only look for stationaries that are refillable; I was a competitive swimmer from the age of 5 to 15.
 
+✨ Check out my [blogs](https://meganslo.medium.com/) on Medium.com! ✨
