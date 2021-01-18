@@ -4,7 +4,7 @@
 
 I am a full-stack web developer. I recently graduated from UC Berkeley in sociology and decided to make a bigger leap to learn programming. I spend a lot of time brainstorming ideas and always try to create something. When I learn something and understand, I would write a blog about it to keep my memory fresh.
 
-I am one of those people that would spend 2 days just working on the CSS of that one freaking button!!! But it's okay, I like it regardless. I prefer minimalist and simplicity with my website design, however, I would love to work with someone who has a more creative side than me and tell me what I have to improve!
+I am one of those people that would spend 2 days just working on the CSS of that one freaking button!!! But it's okay, I like it regardless. I prefer minimalist and simplicity with my website design, however, I just started learning. So, even I have a cool idea in my head, I am still working on implementing those ideas onto my website.
 
 Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
