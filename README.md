@@ -9,7 +9,7 @@ I am one of those people that would spend 2 days just working on the CSS of that
 Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
 - 👩🏻‍💻 I’m currently working on some minor projects and polishing my past projects, nothing biggie🤪
-- 🌱 I’m currently learning Hooks, Redux, Bootstrap, PHP and Java
+- 🌱 I’m currently learning Hooks, Redux, Bootstrap, Python
 - 👯 I’m looking to collaborate on improving my project designs and extend my knowledge🥸.
 - 💬 Ask me about Hong Kong🇭🇰, Snoopy, swimming🏊🏻‍♀️, japanese stationaries, sitcoms
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/megan-s-lo/) and [Twitter](https://twitter.com/megmehlol)
