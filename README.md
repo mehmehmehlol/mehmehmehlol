@@ -8,9 +8,8 @@ I am one of those people that would spend 2 days just working on the CSS of that
 
 Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
-- 👩🏻‍💻 I’m currently working on some minor projects and polishing my past projects, nothing biggie🤪
-- 🌱 I’m currently learning Hooks, Redux, Bootstrap, Python
-- 👯 I’m looking to collaborate on improving my project designs and extend my knowledge🥸.
+- 🌱 I’m learning MERN, React's Hooks and Redux
+- 👯 I want to be better at website designs🥸.
 - 💬 Ask me about Hong Kong🇭🇰, Snoopy, swimming🏊🏻‍♀️, japanese stationaries, sitcoms
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/megan-s-lo/) and [Twitter](https://twitter.com/megmehlol)
 - ⚡ Fun fact: When I buy stationaries, I only look for stationaries that are refillable; I was a competitive swimmer from the age of 5 to 15.
