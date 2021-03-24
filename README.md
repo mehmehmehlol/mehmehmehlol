@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### My name is Megan. Welcome to... #MeganLand! 
+#### My name is Megan. Welcome to my Github! 
 
 I am a full-stack web developer. I recently graduated from UC Berkeley in sociology and decided to make a bigger leap to learn programming. I spend a lot of time brainstorming ideas and always try to create something. When I learn something and understand, I would write a blog about it to keep my memory fresh.
 
-I am one of those people that would spend 2 days just working on the CSS of that one freaking button!!! But it's okay, I like it regardless. I prefer minimalist and simplicity with my website design, however, I just started learning. So, even I have a cool idea in my head, I am still working on implementing those ideas onto my website.
+My motivation for coding is fairly simple and it's somewhat related to my college major. I have become an advocate for a lot of the social issues in recent years, including racism. I learned web developing because I want to code for good. Web developing is very versatile and is one of the most common and fast-growing demand skills. I would like to be the go-to person among friends or anyone who needs a website. You'll find me constantly learning new technologies and that's what I love about the tech community. It's hard to get sick of it and I can talk about it all day long.
 
 Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
