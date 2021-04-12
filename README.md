@@ -9,7 +9,7 @@ My motivation for coding is fairly simple and it's somewhat related to my colleg
 Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
 - 🌱 I’m learning MERN, React's Hooks and Redux
-- 👯 I want to be better at website designs🥸.
+- 👯 I want to be better at website designs and building backend API🥸.
 - 💬 Ask me about Hong Kong🇭🇰, Snoopy, swimming🏊🏻‍♀️, japanese stationaries, sitcoms
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/megan-s-lo/) and [Twitter](https://twitter.com/megmehlol)
 - ⚡ Fun fact: When I buy stationaries, I only look for stationaries that are refillable; I was a competitive swimmer from the age of 5 to 15.
