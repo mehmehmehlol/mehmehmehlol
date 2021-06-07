@@ -14,7 +14,7 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/megan-s-lo/) and [Twitter](https://twitter.com/megmehlol)
 - ⚡ Fun fact: When I buy stationaries, I only look for stationaries that are refillable; I was a competitive swimmer from the age of 5 to 15.
 
-👩🏻‍💻 Check out my [portfolio](https://megan-lo.dev)!! 👩🏻‍💻
+👩🏻‍💻 Check out my [portfolio](https://megan-lo.dev)!! 👩🏻‍💻 <br/>
 ✨ Check out my blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
 
 Article of the Week: [JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦](https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/)
