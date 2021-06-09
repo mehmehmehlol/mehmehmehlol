@@ -8,9 +8,9 @@ My motivation for coding is fairly simple and it's somewhat related to my colleg
 
 Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
-- 🌱 I’m learning MERN, React's Hooks and Redux
-- 👯 I want to be better at website designs and building backend API🥸.
-- 💬 Ask me about Hong Kong🇭🇰, Snoopy, swimming🏊🏻‍♀️, japanese stationaries, sitcoms
+- 🌱 I’m learning React Hooks, Jest/Enzyme test
+- 👯 I want to be better at website designs and building backend API 🥸.
+- 💬 Ask me about Hong Kong 🇭🇰, Snoopy, swimming 🏊🏻‍♀️, japanese stationaries, sitcoms
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/megan-s-lo/) and [Twitter](https://twitter.com/megmehlol)
 - ⚡ Fun fact: When I buy stationaries, I only look for stationaries that are refillable; I was a competitive swimmer from the age of 5 to 15.
 
@@ -19,5 +19,5 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
 Article of the Week: [Complete CSS Grid Tutorial with Cheat Sheet 🎖️](https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/) by Joy Shaheb
 
-My next project idea: A Recipe Blog that includes authentication and form 
+My next project idea 🤔 : A Recipe Blog that includes authentication and form 
 
