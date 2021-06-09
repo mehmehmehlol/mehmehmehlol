@@ -17,7 +17,7 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 👩🏻‍💻 Check out my [portfolio](https://megan-lo.dev)!! 👩🏻‍💻 <br/>
 ✨ Check out my blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
 
-Article of the Week: [JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦](https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/)
+Article of the Week: [Complete CSS Grid Tutorial with Cheat Sheet 🎖️](https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/)
 
 
 
