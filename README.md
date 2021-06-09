@@ -19,5 +19,5 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
 Article of the Week: [Complete CSS Grid Tutorial with Cheat Sheet 🎖️](https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/) by Joy Shaheb
 
-
+My next project idea: A Recipe Blog that includes authentication and form 
 
