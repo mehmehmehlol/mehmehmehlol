@@ -17,7 +17,7 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 👩🏻‍💻 Check out my [portfolio](https://megan-lo.dev)!! 👩🏻‍💻 <br/>
 ✨ Check out my blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
 
-Article of the Week: [Complete CSS Grid Tutorial with Cheat Sheet 🎖️](https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/) by Joy Shaheb
+New Series on my dev.to: [Asynchronous JavaScript](https://dev.to/mehmehmehlol/intro-to-asynchronous-javascript-g9e) 
 
 My next project idea 🤔 : A Recipe Blog that includes authentication and form 
 
