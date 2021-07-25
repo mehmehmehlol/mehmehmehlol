@@ -17,7 +17,9 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 👩🏻‍💻 Check out my [portfolio](https://megan-lo.dev)!! 👩🏻‍💻 <br/>
 ✨ Check out my blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
 
-New Series on my dev.to: [Asynchronous JavaScript](https://dev.to/mehmehmehlol/intro-to-asynchronous-javascript-g9e) 
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 My next project idea 🤔 : A Recipe Blog that includes authentication and form 
 
