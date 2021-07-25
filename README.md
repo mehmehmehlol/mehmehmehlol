@@ -19,6 +19,11 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Methods for RESTful Services (Part 1)](https://dev.to/mehmehmehlol/http-methods-for-restful-services-with-reactjs-axios-example-12kd)
+- [Class Components vs Functional Components in React](https://dev.to/mehmehmehlol/class-components-vs-functional-components-in-react-4hd3)
+- [RESTful API 101](https://medium.com/geekculture/restful-api-101-b61671e5a3ea?source=rss-963906d24739------2)
+- [Async/Await in JavaScript](https://dev.to/mehmehmehlol/async-await-in-javascript-ni5)
+- [More Promises in JavaScript](https://dev.to/mehmehmehlol/more-promises-in-javascript-3e9k)
 <!-- BLOG-POST-LIST:END -->
 
 My next project idea 🤔 : A Recipe Blog that includes authentication and form 
