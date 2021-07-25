@@ -16,8 +16,6 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
 👩🏻‍💻 Check out my [portfolio](https://megan-lo.dev)!! 👩🏻‍💻 
 
-<br/>
-
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
