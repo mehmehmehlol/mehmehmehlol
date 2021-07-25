@@ -14,12 +14,16 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/megan-s-lo/) and [Twitter](https://twitter.com/megmehlol)
 - ⚡ Fun fact: When I buy stationaries, I only look for stationaries that are refillable; I was a competitive swimmer from the age of 5 to 15.
 
-👩🏻‍💻 Check out my [portfolio](https://megan-lo.dev)!! 👩🏻‍💻 <br/>
-✨ Check out my blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
+👩🏻‍💻 Check out my [portfolio](https://megan-lo.dev)!! 👩🏻‍💻 
 
-# Latest Blog posts
+<br/>
+
+#### Latest Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-My next project idea 🤔 : A Recipe Blog that includes authentication and form 
+✨ Check out my other blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
+
+![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmehmehlol)](https://github.com/anuraghazra/github-readme-stats)
 
