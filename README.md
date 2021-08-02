@@ -19,11 +19,11 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Tech Interviews Experience](https://meganslo.medium.com/my-tech-interviews-experience-2765716f6629?source=rss-963906d24739------2)
 - [PUT vs PATCH & PUT vs POST](https://dev.to/mehmehmehlol/put-vs-patch-put-vs-post-56i9)
 - [HTTP Methods for RESTful Services (Part 1)](https://dev.to/mehmehmehlol/http-methods-for-restful-services-with-reactjs-axios-example-12kd)
 - [Class Components vs Functional Components in React](https://dev.to/mehmehmehlol/class-components-vs-functional-components-in-react-4hd3)
 - [RESTful API 101](https://medium.com/geekculture/restful-api-101-b61671e5a3ea?source=rss-963906d24739------2)
-- [Async/Await in JavaScript](https://dev.to/mehmehmehlol/async-await-in-javascript-ni5)
 <!-- BLOG-POST-LIST:END -->
 
 ✨ Check out my other blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
