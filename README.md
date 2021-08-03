@@ -28,5 +28,5 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 
 ✨ Check out my other blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
 
-[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmehmehlol)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmehmehlol)](https://github.com/anuraghazra/github-readme-stats) -->
 
