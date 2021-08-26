@@ -19,7 +19,7 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [for…in vs for…of in JavaScript](https://meganslo.medium.com/for-in-vs-for-of-in-javascript-8563bd3e0672?source=rss-963906d24739------2)
+- [for…in vs for…of in JavaScript](https://medium.com/geekculture/for-in-vs-for-of-in-javascript-8563bd3e0672?source=rss-963906d24739------2)
 - [for...in vs for...of in JavaScript](https://dev.to/mehmehmehlol/for-in-vs-for-of-in-javascript-174g)
 - [I Relearned JavaScript with Scrimba](https://dev.to/mehmehmehlol/i-relearned-javascript-with-scrimba-17dm)
 - [My Tech Interviews Experience](https://meganslo.medium.com/my-tech-interviews-experience-2765716f6629?source=rss-963906d24739------2)
