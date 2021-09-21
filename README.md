@@ -19,11 +19,11 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For New Developers: How to Stay Motivated And Positive When Job Searching (Ft. My Journey)](https://meganslo.medium.com/for-new-developers-how-to-stay-motivated-and-positivewhen-job-searching-ft-my-journey-5acba907db60?source=rss-963906d24739------2)
+- [for…in vs for…of in JavaScript](https://medium.com/geekculture/for-in-vs-for-of-in-javascript-8563bd3e0672?source=rss-963906d24739------2)
 - [for...in vs for...of in JavaScript](https://dev.to/mehmehmehlol/for-in-vs-for-of-in-javascript-174g)
 - [I Relearned JavaScript with Scrimba](https://dev.to/mehmehmehlol/i-relearned-javascript-with-scrimba-17dm)
-- [PUT vs PATCH & PUT vs POST](https://dev.to/mehmehmehlol/put-vs-patch-put-vs-post-56i9)
-- [HTTP Methods for RESTful Services (Part 1)](https://dev.to/mehmehmehlol/http-methods-for-restful-services-with-reactjs-axios-example-12kd)
-- [Class Components vs Functional Components in React](https://dev.to/mehmehmehlol/class-components-vs-functional-components-in-react-4hd3)
+- [My Tech Interviews Experience](https://meganslo.medium.com/my-tech-interviews-experience-2765716f6629?source=rss-963906d24739------2)
 <!-- BLOG-POST-LIST:END -->
 
 ✨ Check out my other blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
