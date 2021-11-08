@@ -19,7 +19,7 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [For New Developers: How to Stay Motivated And Positive When Job Searching (Ft. My Journey)](https://meganslo.medium.com/for-new-developers-how-to-stay-motivated-and-positivewhen-job-searching-ft-my-journey-5acba907db60?source=rss-963906d24739------2)
+- [For New Developers: How to Stay Motivated And Positive When Job Searching &lpar;Ft. My Journey&rpar;](https://meganslo.medium.com/for-new-developers-how-to-stay-motivated-and-positivewhen-job-searching-ft-my-journey-5acba907db60?source=rss-963906d24739------2)
 - [for…in vs for…of in JavaScript](https://medium.com/geekculture/for-in-vs-for-of-in-javascript-8563bd3e0672?source=rss-963906d24739------2)
 - [for...in vs for...of in JavaScript](https://dev.to/mehmehmehlol/for-in-vs-for-of-in-javascript-174g)
 - [I Relearned JavaScript with Scrimba](https://dev.to/mehmehmehlol/i-relearned-javascript-with-scrimba-17dm)
