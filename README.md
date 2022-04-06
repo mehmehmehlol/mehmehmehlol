@@ -22,8 +22,8 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git
 - [Git Commands That I Love](https://meganslo.medium.com/git-commands-that-i-love-b6dc46e4180d?source=rss-963906d24739------2)
 - [For New Developers: How to Stay Motivated And Positive When Job Searching &lpar;Ft. My Journey&rpar;](https://meganslo.medium.com/for-new-developers-how-to-stay-motivated-and-positivewhen-job-searching-ft-my-journey-5acba907db60?source=rss-963906d24739------2)
 - [for…in vs for…of in JavaScript](https://medium.com/geekculture/for-in-vs-for-of-in-javascript-8563bd3e0672?source=rss-963906d24739------2)
-- [for...in vs for...of in JavaScript](https://dev.to/mehmehmehlol/for-in-vs-for-of-in-javascript-174g)
-- [I Relearned JavaScript with Scrimba](https://dev.to/mehmehmehlol/i-relearned-javascript-with-scrimba-17dm)
+- [My Tech Interviews Experience](https://meganslo.medium.com/my-tech-interviews-experience-2765716f6629?source=rss-963906d24739------2)
+- [RESTful API 101](https://medium.com/geekculture/restful-api-101-b61671e5a3ea?source=rss-963906d24739------2)
 <!-- BLOG-POST-LIST:END -->
 
 ✨ Check out my other blogs on [Medium](https://meganslo.medium.com/) and [dev.to](https://dev.to/mehmehmehlol)! ✨
